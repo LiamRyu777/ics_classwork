@@ -58,7 +58,7 @@ while running:
         g += 2
     if b <= 235:
         b += 2
-    if sun_y <= 50:
+    if sun_y >= 50:
        sun_y -= 3
     # DRAWING
 
