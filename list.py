@@ -1,0 +1,23 @@
+list = []
+
+list.append(-113)
+list.append(-113)
+list.append(-113)
+list.append(-113)
+list.append(-113)
+list.append(-113)
+list.append(-113)
+list.append(-113)
+list.append(-113)
+list.append(-113)
+
+print(f"slot 0  contains a {list[0]}")
+print(f"slot 1  contains a {list[1]}")
+print(f"slot 2  contains a {list[2]}")
+print(f"slot 3  contains a {list[3]}")
+print(f"slot 4  contains a {list[4]}")
+print(f"slot 5  contains a {list[5]}")
+print(f"slot 6  contains a {list[6]}")
+print(f"slot 7  contains a {list[7]}")
+print(f"slot 8  contains a {list[8]}")
+print(f"slot 9  contains a {list[9]}")
